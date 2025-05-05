@@ -10,3 +10,9 @@ Uma página simples feita em HTML.
 
 ## ➕ Adições:
 1. _**CSS**_
+
+## 📜 Licença
+   Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação conforme necessário.
+
+   Feito por [Gabriela Rodrigues](https://github.com/Agbl09)
+
